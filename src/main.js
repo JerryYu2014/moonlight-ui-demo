@@ -4,6 +4,9 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 
+// import mluix from 'moonlight-ui-x'
+// Vue.use(mluix)
+
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
