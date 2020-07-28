@@ -53,6 +53,8 @@
         </a>
       </li>
     </ul>
+
+    <ml-button type='success'>NICE</ml-button>
   </div>
 </template>
 
